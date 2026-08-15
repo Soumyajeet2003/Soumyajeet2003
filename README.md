@@ -53,20 +53,6 @@ A full-stack web application focused on **skill sharing and connecting people th
 
 ---
 
-## 🧩 DSA & Problem Solving
-
-I regularly practice **Data Structures and Algorithms using Java**, with a focus on developing strong problem-solving and algorithmic thinking skills.
-
-### 🟨 LeetCode
-
-<p>
-  <a href="https://leetcode.com/u/Soumyajeet_Dhua/">
-    <img src="https://img.shields.io/badge/LeetCode-Soumyajeet__Dh%C3%BAa-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Profile"/>
-  </a>
-</p>
-
----
-
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
@@ -131,6 +117,20 @@ I regularly practice **Data Structures and Algorithms using Java**, with a focus
 
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Soumyajeet2003&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="165"/>
+</p>
+
+---
+
+## 🧩 DSA & Problem Solving
+
+I regularly practice **Data Structures and Algorithms using Java**, with a focus on developing strong problem-solving and algorithmic thinking skills.
+
+### 🟨 LeetCode
+
+<p>
+  <a href="https://leetcode.com/u/Soumyajeet_Dhua/">
+    <img src="https://img.shields.io/badge/LeetCode-Soumyajeet__Dh%C3%BAa-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Profile"/>
+  </a>
 </p>
 
 ---
